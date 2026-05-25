@@ -1,0 +1,9 @@
+Customer_ID,Transaction_Type,Amount,Category,Suspicious
+101,Deposit,500,Salary,False
+102,Withdrawal,200,ATM,False
+103,Deposit,800,Salary,False
+101,Withdrawal,150,Bills,False
+104,Deposit,1200,Business,True
+102,Deposit,700,Salary,False
+103,Withdrawal,100,ATM,False
+105,Deposit,900,Investment,False
